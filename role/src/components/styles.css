@@ -1,0 +1,4 @@
+/* Basic styles */
+nav { background: #333; color: white; padding: 10px; }
+aside { width: 200px; float: left; background: #f4f4f4; padding: 10px; }
+main { margin-left: 220px; padding: 10px; }
